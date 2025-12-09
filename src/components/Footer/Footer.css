@@ -1,0 +1,29 @@
+.ft-container{
+  height: 350px;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+.ft-form-contact {
+  margin-top: 20px;
+  box-shadow: 0 0 10px rgb(0 0 0 / 30%);
+  border-radius: 10px;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  width: 400px;
+  height: 300px;
+}
+
+.ft-fieldset{
+  width: fit-content;
+}
+
+.ft-form-legent{
+  width: fit-content;
+}
+
+.ft-form-btn{
+  width: 100px;
+}
